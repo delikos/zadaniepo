@@ -5,11 +5,8 @@
     margin: auto;
     width: 90%;
 }
-.baner1{
-    float: left;
-}
-.baner2{
-    float: right;
+header{
+    display: flex;
 }
 .baner1, .baner2{
     background-color: black;
